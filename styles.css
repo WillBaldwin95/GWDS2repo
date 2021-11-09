@@ -54,7 +54,7 @@ li{
     font-weight: bold;
 }
 .section-one {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     background-color: rgb(44, 44, 247);
 }
 .caption {
@@ -65,13 +65,13 @@ li{
     display: flex;
 }
 .kit-item {
-    border: 1px dashed gray;
+    /*border: 1px dashed gray;*/
     width: 275px;
     height: 275px;
     padding: 4px;
 }
 .kit-group{
-    border: 2px solid green;
+    /*border: 2px solid green;*/
     width: 275px;
 }
 .container {
