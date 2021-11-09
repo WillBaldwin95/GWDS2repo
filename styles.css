@@ -42,6 +42,14 @@ li{
 .fave{
     color:forestgreen;
 }
-.pizza{
+.map{
     width: 50%;
+}
+/* Kit Page*/
+.kit-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
 }
