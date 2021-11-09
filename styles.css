@@ -64,3 +64,9 @@ li{
 .container{
     display: flex;
 }
+.kit-item {
+    border: 1px dashed gray;
+    width: 275px;
+    height: 275px;
+    padding: 4px;
+}
